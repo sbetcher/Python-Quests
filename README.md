@@ -1,10 +1,13 @@
 Fragestellung: Quest#py-00-0001
+
 🧙‍♂️ Objektorientiertes Python-Konsolenspiel: „Finde das Drachenei“
+
 🎯 Aufgabenstellung
 
 Erstelle ein textbasiertes Abenteuerspiel in Python. Ziel des Spiels ist es, durch verschiedene Räume zu reisen, mit Figuren zu interagieren, Gegenstände zu sammeln und schließlich das „Drachenei“ und den „Zauberspruch“ zu finden. Das Spiel ist gewonnen, sobald beide Objekte im Inventar sind.
 
 Dabei soll ein objektorientierter Ansatz verwendet werden, um Räume, Figuren, Gegenstände und das Spielgeschehen strukturiert abzubilden.
+
 🧩 Kernanforderungen
 1. Klassenstruktur
 
